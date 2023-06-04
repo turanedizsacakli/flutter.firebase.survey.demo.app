@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "197000953121",
+    "project_id": "anket-c09c3",
+    "storage_bucket": "anket-c09c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197000953121:android:f01065c5e69cad8b439260",
+        "android_client_info": {
+          "package_name": "com.example.survey_demo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197000953121-tg8fij5iupik5kq1qhab7845lfn5ffge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQOrE84LUMBAtEi5h5eXETZZgRT0Im_zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197000953121-tg8fij5iupik5kq1qhab7845lfn5ffge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
